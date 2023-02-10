@@ -1,10 +1,11 @@
 import "./App.css";
+import TaskCard from "./components/TaskCard";
 
 const App = ():JSX.Element => {
 
   return (
     <div className="App">
-      Hi mom
+      <TaskCard />
     </div>
   );
 }
