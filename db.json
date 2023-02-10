@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Do homework"
+    },
+    {
+      "id": 2,
+      "title": "Do Shopping"
+    },
+    {
+      "id": 3,
+      "title": "Learn Next.js"
+    },
+    {
+      "id": 4,
+      "title": "Find a job"
+    }
+  ]
+}
